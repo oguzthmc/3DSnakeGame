@@ -7,4 +7,4 @@ __GLFW__, __glm__ and __stb__ libraries were used in the project. In addition, t
 <br/><br/>
 ## Simple Execution of the Program
 <br/>
-![](images/SimpleRun.png)
+![](images/simpleRun.png)
