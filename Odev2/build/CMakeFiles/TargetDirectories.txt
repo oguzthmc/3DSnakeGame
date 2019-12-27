@@ -1,0 +1,3 @@
+C:/Users/Acer/Desktop/GrafikProje_B181210394_B181210397/Odev2/build/CMakeFiles/GrafikOdev.dir
+C:/Users/Acer/Desktop/GrafikProje_B181210394_B181210397/Odev2/build/CMakeFiles/edit_cache.dir
+C:/Users/Acer/Desktop/GrafikProje_B181210394_B181210397/Odev2/build/CMakeFiles/rebuild_cache.dir
