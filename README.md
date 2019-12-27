@@ -6,3 +6,6 @@ __GLFW__, __glm__ and __stb__ libraries were used in the project. In addition, t
 <br/>__Note:__ Before running the program, add your GLFW library file under the Dependencies directory and delete the build folder if a possible error occurs.
 <br/><br/>
 ## Simple Execution of the Program
+<br/>
+![simpleRun](https://user-images.githubusercontent.com/47873038/71519647-800b8e80-28c9-11ea-98c7-8364e28f8481.png)
+
