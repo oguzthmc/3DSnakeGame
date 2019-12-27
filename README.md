@@ -7,5 +7,5 @@ __GLFW__, __glm__ and __stb__ libraries were used in the project. In addition, t
 <br/><br/>
 ## Simple Execution of the Program
 <br/>
-
+![simpleRun](https://cloud.user-images.githubusercontent.com/47873038/71519853-47b88000-28ca-11ea-9c6a-c6f54766538b.png)
 
